@@ -1,2 +1,1 @@
-Coding-Round
-============
+Solution to tower research puzzles.
